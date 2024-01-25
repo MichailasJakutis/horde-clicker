@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/horde-clicker/static/css/main.f855e6bc.css",
-    "main.js": "/horde-clicker/static/js/main.91b37b0a.js",
-    "static/js/787.be0723b1.chunk.js": "/horde-clicker/static/js/787.be0723b1.chunk.js",
-    "static/media/logo.svg": "/horde-clicker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/horde-clicker/static/css/main.31d6cfe0.css",
+    "main.js": "/horde-clicker/static/js/main.d677440c.js",
     "index.html": "/horde-clicker/index.html",
-    "main.f855e6bc.css.map": "/horde-clicker/static/css/main.f855e6bc.css.map",
-    "main.91b37b0a.js.map": "/horde-clicker/static/js/main.91b37b0a.js.map",
-    "787.be0723b1.chunk.js.map": "/horde-clicker/static/js/787.be0723b1.chunk.js.map"
+    "main.d677440c.js.map": "/horde-clicker/static/js/main.d677440c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.91b37b0a.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d677440c.js"
   ]
 }
